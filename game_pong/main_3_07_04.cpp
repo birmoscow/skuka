@@ -321,7 +321,7 @@ void setupTable(){				//setup table with obj
 			cout << 0;
 			setCursorPosition(0, 21);
 			
-			Sleep(85);
+			Sleep(45);
 		}
 	}
 }
